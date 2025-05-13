@@ -1,0 +1,7 @@
+@url = https://8080-gustavohkolive-aula1205-4vyfxhb9b1n.ws-us118.gitpod.io
+
+GET {{url}}/v3/api-docs
+
+###
+
+GET {{url}}/docs
